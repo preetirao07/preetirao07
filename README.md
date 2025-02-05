@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm Preeti Rao (@preetirao07), an **IIT Delhi alumnus** passionate about the world of data and its endless possibilities. 🚀
+I'm Preeti Yadav (@preetirao07), an **IIT Delhi alumnus** passionate about the world of data and its endless possibilities. 🚀
 
 🔬 About Me
   🌟 Currently an **Instructor at OmicsLogic**, helping learners dive into the exciting fields of bioinformatics and data science.

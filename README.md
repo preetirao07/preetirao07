@@ -1,7 +1,7 @@
 PREETI YADAV's Data Analytics Portfolio
 
 ## Porfile Info
-I currently serve as an Instructor at OmicsLogic, where I empower learners to explore the dynamic fields of bioinformatics and data science. 
+I currently serve as an Bio-Informatics Engineer at OmicsLogic, where I empower learners to explore the dynamic fields of bioinformatics and data science. 
 With strong skills in Python, R, and SQL, I am deeply passionate about leveraging data to drive impactful insights. Over the next three years, I aspire to advance into a senior data analyst role, further honing my expertise and contributing to innovative, data-driven solutions.
 
 ## Education

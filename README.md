@@ -1,16 +1,25 @@
-Hi there! 👋
-I'm Preeti Yadav (@preetirao07), an **IIT Delhi alumnus** passionate about the world of data and its endless possibilities. 🚀
+PREETI YADAV's Data Analytics Portfolio
 
-🔬 About Me
-  🌟 Currently an **Instructor at OmicsLogic**, helping learners dive into the exciting fields of bioinformatics and data science.
-  🛠️ Skilled in data modification and uncovering insights from complex datasets.
-  📚 Lifelong learner, continuously enhancing my skills through self-motivated exploration.
-  
-⚡ Interests
-  Data Science: Transforming raw data into actionable insights.
-  Education: Sharing knowledge and fostering learning.
-  Bioinformatics: Leveraging computational tools to solve biological problems.
+## Porfile Info
+I currently serve as an Instructor at OmicsLogic, where I empower learners to explore the dynamic fields of bioinformatics and data science. 
+With strong skills in Python, R, and SQL, I am deeply passionate about leveraging data to drive impactful insights. Over the next three years, I aspire to advance into a senior data analyst role, further honing my expertise and contributing to innovative, data-driven solutions.
 
-🌱 What I'm Learning
-Exploring advanced techniques in data handling, visualization, and insights generation to sharpen my analytical skills.
-Diving into the field of image processing, discovering its applications in science and technology.
+## Education
+- 2022-2024 | M. Tech in Biomolecular and Bioprocess Engineering, IIT DElhi
+
+## Skills
+- Programming Languages: Python, and R-programming 		
+- Data Visualization: Tableau
+- Data Manipulation & Analysis: SQL, Excel, SAS, & R
+- Version Control: Git and GitHub
+- Database Management: PostgreSQL, Snowflake
+- ETL: Data ingestion, ETL pipelines, Airflow
+- Tools: Pandas, NumPy, Tableau, Python
+
+## Relevant Courses & Certifications
+- 100 days of python
+- SQL
+
+## Contact Information
+- Email: preetirao0711@gmail.com
+- LinedIn: https://www.linkedin.com/in/preeti-yadav-46a8b4215/

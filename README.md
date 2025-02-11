@@ -22,4 +22,4 @@ With strong skills in Python, R, and SQL, I am deeply passionate about leveragin
 
 ## Contact Information
 - Email: preetirao0711@gmail.com
-- LinedIn: https://www.linkedin.com/in/preeti-yadav-46a8b4215/
+- LinkedIn: https://www.linkedin.com/in/preeti-yadav-46a8b4215/

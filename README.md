@@ -17,8 +17,8 @@ With strong skills in Python, R, and SQL, I am deeply passionate about leveragin
 - Tools: Pandas, NumPy, Tableau, Python
 
 ## Relevant Courses & Certifications
-- 100 days of python
-- SQL
+- 100 days of Python
+- **The Complete SQL Bootcamp**: Certificate URL (http://ude.my/UC-ff9bef48-6b63-4261-9339-f02e93051b14)
 
 ## Contact Information
 - Email: preetirao0711@gmail.com

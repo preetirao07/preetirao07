@@ -5,7 +5,7 @@ I currently serve as an Bio-Informatics Engineer at OmicsLogic, where I empower 
 With strong skills in Python, R, and SQL, I am deeply passionate about leveraging data to drive impactful insights. Over the next three years, I aspire to advance into a senior data analyst role, further honing my expertise and contributing to innovative, data-driven solutions.
 
 ## Education
-- 2022-2024 | M. Tech in Biomolecular and Bioprocess Engineering, IIT DElhi
+- 2022-2024 | M. Tech in Biomolecular and Bioprocess Engineering, IIT DELHI
 
 ## Skills
 - Programming Languages: Python, and R-programming 		

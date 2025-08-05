@@ -8,16 +8,19 @@ With strong skills in Python, R, and SQL, I am deeply passionate about leveragin
 - 2022-2024 | M. Tech in Biomolecular and Bioprocess Engineering, IIT DELHI
 
 ## Skills
-- Programming Languages: Python, and R-programming 		
-- Data Visualization: Tableau
+- Programming Languages: SQL, Python, and R-programming 		
+- Data Visualization: Power BI
 - Data Manipulation & Analysis: SQL, Excel, SAS, & R
 - Version Control: Git and GitHub
-- Database Management: PostgreSQL, Snowflake
+- Database Management: PostgreSQL
 - ETL: Data ingestion, ETL pipelines, Airflow
-- Tools: Pandas, NumPy, Tableau, Python
+- Tools: Pandas, NumPy, Python
 
 ## Relevant Courses & Certifications
 - 100 days of Python
+- Complete Data Analyst Bootcamp From Basics To Advanced
+- Statistics for Data Science and Business Analysis
+- **15 Days of SQL: The Complete SQL Masterclass 2025**: Certificate URL (https://udemy-certificate.s3.amazonaws.com/pdf/UC-b61b9029-0b1a-4f95-9a49-107f79ed0759.pdf)
 - **The Complete SQL Bootcamp**: Certificate URL (http://ude.my/UC-ff9bef48-6b63-4261-9339-f02e93051b14)
 
 ## Contact Information

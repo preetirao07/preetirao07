@@ -37,4 +37,4 @@ I’m seeking a **Data Analyst / Business Intelligence** role where I can **own 
 
 ## Contact Information
 - Email: preetirao0711@gmail.com
-- LinkedIn: https://www.linkedin.com/in/preeti-yadav-46a8b4215/
+- LinkedIn: https://www.linkedin.com/in/preetirao07 

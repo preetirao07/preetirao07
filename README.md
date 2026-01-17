@@ -29,6 +29,18 @@ I’m seeking a **Data Analyst / Business Intelligence** role where I can **own 
 - ETL: Data ingestion, ETL pipelines, Airflow
 - Tools: Pandas, NumPy, Python
 
+## Projects
+
+### 1. Test Match Cricket Analytics | Power BI DAX PowerQuery
+  - Built an end-to-end Test match cricket analytics dashboard using Power BI, analyzing batting, bowling, and fielding performance
+  - Web-scraped player statistics from ESPNcricinfo StatsGuru and performed ETL using Power Query
+  - Implemented advanced DAX calculations including RANKX, VLOOKUP-style logic, POWER, and ABS for player categorization and ranking
+  - Designed multi-page interactive dashboards with slicers and KPI cards for in-depth Test match analysis
+  - Leveraged AI-assisted analytics to optimize calculations and generate performance insights
+
+### 2. Retail sales analysis | Time Series Analysis | SQL Python PBI Excel
+  - Built an end-to-end Retail Sales Project using PostgreSQL, Excel, Power BI
+
 ## Relevant Courses & Certifications
 - 100 days of Python
 - Complete Data Analyst Bootcamp From Basics To Advanced

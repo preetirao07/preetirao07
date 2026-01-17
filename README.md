@@ -1,13 +1,14 @@
 PREETI YADAV's Data Analytics Portfolio
 
 ## Profile Info
-Hi, I’m **Preeti, a Data Analyst** with an **M.Tech from IIT Delhi**. I specialize in building **end-to-end analytics solutions**—from data extraction to visualization:
+Hi, I’m **Preeti, a Data Analyst** with an **M.Tech from IIT Delhi**. I specialize in building **end-to-end analytics solutions** - from data extraction to visualization:
 
 - **Python + SQL** for ETL
+- **Excel** for data cleaning, ad-hoc analysis, pivot tables, and validation
 - **PostgreSQL** for data warehousing
 - **Power BI** for actionable insights
 
-At **OmicsLogic**, I divide my time between **developing pipelines** and **teaching analytics**, where I have **trained 500+ learners** and created **reusable, well-documented notebooks** for bioinformatics and data science applications.
+At **OmicsLogic**, I divide my time between **data pre-processing & analytics**, **developing pipelines** and **teaching analytics**, where I have **trained 500+ learners worldwide in 50+ countries** and created **reusable, well-documented notebooks** for healthcare, bioinformatics and life sciences.
 
 **Recent projects include:**
 - Designing a **customer-sales warehouse** with Airflow, including cohort and retention analytics.

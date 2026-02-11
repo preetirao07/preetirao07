@@ -25,8 +25,9 @@ I’m seeking a **Data Analyst / Business Intelligence** role where I can **own 
 ## Skills
 - Programming Languages: SQL, Python, and R-programming 		
 - Data Visualization: Power BI
-- Data Manipulation & Analysis: SQL, Excel, SAS, & R
+- Data Manipulation & Analysis: SQL, Excel, Python & R
 - Version Control: Git and GitHub
+- Cloud Data Warehousing & Databases: PostgreSQL, Snowflake, Google BigQuery
 - Database Management: PostgreSQL
 - ETL: Data ingestion, ETL pipelines, Airflow
 - Tools: Pandas, NumPy, Python

@@ -19,6 +19,8 @@ I’m seeking a **Data Analyst / Business Intelligence** role where I can **own 
 
 ## Education
 - 2022-2024 | M. Tech in Biomolecular and Bioprocess Engineering, IIT DELHI
+- 2019-2021 | M. Sc in Botany, CUP, Bathinda
+- 2016-2019 | B. Sc General, MDU, Rohtak
 
 ## Skills
 - Programming Languages: SQL, Python, and R-programming 		

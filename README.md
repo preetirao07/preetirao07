@@ -37,8 +37,14 @@ I’m seeking a **Data Analyst / Business Intelligence** role where I can **own 
   - Implemented advanced DAX calculations including RANKX, VLOOKUP-style logic, POWER, and ABS for player categorization and ranking
   - Designed multi-page interactive dashboards with slicers and KPI cards for in-depth Test match analysis
   - Leveraged AI-assisted analytics to optimize calculations and generate performance insights
+### 2. Panic Attack Data Analysis | Power Bi, Snowflake, SQL, DAX, Power Query
+  - Built a 4-page Power BI dashboard analyzing panic attack patterns using demographic, trigger, and symptom insights.
+  - Cleaned raw data using Snakeflow SQL, then performed additional shaping in Power Query, including column profiling, datatype corrections, and error handling.
+  - Built multiple DAX-based calculated columns and measures (IF, SWITCH, COUNTROWS, FILTER, DIVIDE) for creating panic score buckets, age groups, and KPI calculations.
+  - Developed age-group analysis using clustered bar charts comparing average sleep hours, panic score, and attack frequency across defined cohorts.
+  - Tools & Technologies: Power BI Desktop, Power Query, DAX, SQL(Snowflake), Data Modeling
 
-### 2. Retail sales analysis | Time Series Analysis | SQL, Python, Power BI, Excel
+### 3. Retail sales analysis | Time Series Analysis | SQL, Python, Power BI, Excel
   - Built an end-to-end Retail Sales Project using PostgreSQL, Excel, Power BI
 
 ## Relevant Courses & Certifications
